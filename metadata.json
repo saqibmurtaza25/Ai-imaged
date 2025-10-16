@@ -1,0 +1,5 @@
+{
+  "name": "PhotoReal AI Image Generator",
+  "description": "A high-fidelity image generation AI that creates photorealistic images based on natural language prompts. Generates images that look captured through a professional DSLR camera, with no watermarks or text overlays.",
+  "requestFramePermissions": []
+}
